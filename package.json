@@ -1,0 +1,13 @@
+{
+  "name": "fb-whats-up",
+  "version": "0.0.1",
+  "description": "Helps you re-connect with friends",
+  "main": "reconnect.js",
+  "author": "Kevin M. Karol <kevinmkarol@gmail.com> (kevinmkarol.com)",
+  "license": "GPL-3.0",
+  "dependencies": {
+     "facebook-chat-api" : "~1.0.7",
+     "forever": "~0.15.1",
+     "node-schedule": "~1.0.0"
+   }
+}
