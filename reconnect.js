@@ -1,3 +1,10 @@
+/**
+** fb-whats-up
+** http://github.com/kevinmkarol/fb-whats-up
+** Copyright Kevin M. Karol, 2016
+** Released under GNU GLP3
+**/
+
 var login = require("facebook-chat-api");
 var schedule = require('node-schedule');
 var fs = require('fs');

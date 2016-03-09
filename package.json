@@ -1,3 +1,10 @@
+/**
+** fb-whats-up
+** http://github.com/kevinmkarol/fb-whats-up
+** Copyright Kevin M. Karol, 2016
+** Released under GNU GLP3
+**/
+
 {
   "name": "fb-whats-up",
   "version": "0.0.1",
@@ -7,7 +14,6 @@
   "license": "GPL-3.0",
   "dependencies": {
      "facebook-chat-api" : "~1.0.7",
-     "forever": "~0.15.1",
      "node-schedule": "~1.0.0"
    }
 }
